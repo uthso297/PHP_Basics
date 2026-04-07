@@ -1,0 +1,17 @@
+{
+    "name": "hpelite-bookg6js/composer",
+    "autoload": {
+        "psr-4": {
+            "HpeliteBookg6js\\Composer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "uthso297",
+            "email": "uthso119464@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.10"
+    }
+}
